@@ -1,1 +1,1 @@
-# testing_gitMAS
+# testing_git
